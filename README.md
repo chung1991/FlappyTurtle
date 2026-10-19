@@ -41,3 +41,10 @@ xcrun simctl openurl booted "nativeflappyturtle://launch?scene=gameover&freeze=1
 
 Scenes: `menu`, `ready`, `playing`, `paused`, `gameover`. Without any `-ft-`
 option the app launches normally.
+
+## License
+
+The source code is released under the [MIT License](LICENSE). Bundled
+third-party assets (the original game's art and sounds, and the fonts in
+`NativeFlappyTurtle/Resources/Fonts`) are not covered by it and remain under
+their owners' terms.
