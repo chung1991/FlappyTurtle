@@ -1,0 +1,16 @@
+{
+  "FAIL_TO_PASS": [
+    "MovingPipesVerifierTests/testTenthPairGapMoves()",
+    "MovingPipesVerifierTests/testLaterPairsAlsoMove()",
+    "MovingPipesVerifierTests/testMovingGapFollowsSpec()",
+    "MovingPipesVerifierTests/testCollisionUsesMovingGeometry()",
+    "MovingPipesScreenVerifierTests/testMovingPairOnScreen()",
+    "MovingPipesScreenVerifierTests/testMovingPairAnimatesLive()"
+  ],
+  "PASS_TO_PASS": [
+    "MovingPipesVerifierTests/testFirstNinePairsStayStill()",
+    "MovingPipesVerifierTests/testMovingInvariantsEveryFrame()",
+    "MovingPipesVerifierTests/testPauseFreezesMovement()",
+    "*existing*"
+  ]
+}
